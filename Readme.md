@@ -33,7 +33,7 @@
 </span>
 <br>
 <span>
-    isim : <b>teknasyon şifre : <b>231</b>
+    isim : <b>teknasyon</b> şifre : <b>231</b>
 </span>
 
 <h4>Views/Post.php</h4>
@@ -58,9 +58,9 @@
 </p>
 
 <span>
-    isim : <b>teknasyon şifre : <b>963852741</b>
+    isim : <b>teknasyon</b> şifre : <b>963852741</b>
 </span>
-<<<<<<< HEAD
+
 <span>
     isim : <b>Basri</b> şifre : <b>789654258</b>
 </span>
