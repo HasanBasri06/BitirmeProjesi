@@ -1,0 +1,86 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: none; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ffc107; 
+}
+.top-header{
+    height: 5px;
+    width: 100%;
+    background-color: #ffc107;
+}
+nav{
+    padding: 0 50px;
+    height: 50px;
+    box-sizing: border-box;
+    line-height: 50px;
+    /*background-color: #B71C1C;*/
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+footer{
+    /*background-color: #B71C1C;*/
+    height: 50px; 
+    line-height: 50px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+nav .logo{
+    font-size: 1.6em;
+    color: rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navbar-ul li{
+    padding: 0 10px;
+}
+/* .navbar-ul li a{ 
+
+} */
+.card{
+    background:none;
+    border: none;
+}
+.lg-bac{
+    background: none;
+}
+.list-group li{
+    background: none;
+}
+.post ~ .post{
+    margin-top: 25px;
+}
+.ark{
+    background: #B71C1C;
+}
+.box{
+    margin: 10px auto;
+    width: 400px;
+    height: auto;
+}
+.dropdown{
+    width: 150px;
+    height: 75px;
+    background-color: black;
+}
+.user_nav li{
+    border: 0;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+.category-box{
+    position: relative;
+    top: -30px;
+    left: 5px;
+    width: 100px;
+    height: 25px;
+    
+}
