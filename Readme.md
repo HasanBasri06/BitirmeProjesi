@@ -38,7 +38,7 @@
 
 <h4>Views/Post.php</h4>
 <p>
-    Post.basri.php ile etkileşime girer, Get ile gelen isteğe göre haberin detayını gösterir, içeriinde yorum(isteğe göre anonim) yapma, postu beğenme veya beğenmeme (bu keşfet sayfasını oluşurur).  
+    Post.basri.php ile etkileşime girer, Get ile gelen isteğe göre haberin detayını gösterir, içerisinde yorum(isteğe göre anonim) yapma, postu beğenme veya beğenmeme (bu keşfet sayfasını oluşturur).  
 </p>
 
 <h4>Admin/Admin.php</h4>
@@ -60,7 +60,7 @@
 <span>
     isim : <b>teknasyon</b> şifre : <b>963852741</b>
 </span>
-
+<br>
 <span>
     isim : <b>Basri</b> şifre : <b>789654258</b>
 </span>
@@ -74,7 +74,7 @@
     veritabanı bilgilerine ulaşmak için sql dosyasında bulunan .sql tablolarını 'news' veritabanı altına ekleyiniz 
 </span>
 <br>
-<h4>Yapılışı (Windows işletim sistemi için)</h4>
+<h4>Kullanımı (Windows işletim sistemi için)</h4>
 <span>
     bu repodaki sql dosyasında bulunan .sql dosyalarını "news" veritabanına(yoksa oluştur) "içe aktar" diyerek aktarabilir ve kullanabilirsiniz
 </span>
