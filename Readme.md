@@ -1,9 +1,11 @@
-<h1>Bitirme Projesi</h1>
-<h3>Haber Web Uygulaması Teknasyon için hazırlanmıştır</h3>
+
+![](https://user-images.githubusercontent.com/69991414/137204427-ff10fbaa-eb2a-4057-ae05-91cec7259617.png)
 <p>
-    [!image]
     Uygulamanın dizin yapısı bu şekildedir, 'Views' klasöründe frond-end için hazırlanan dosyalar bulunur, bu dosyalar dinamik hale getirmek için 'Http/Controller' klasörüne koyulan .basri.php dosyaları üstlenir. API yapısı oldukça basit :) uygulama içerisinde kullanılan haberler api(ara katman) yazılımıyla globele sunulur.
 </p>
+<h1>Bitirme Projesi</h1>
+<h3>Haber Web Uygulaması Teknasyon için hazırlanmıştır</h3>
+
 
 
 <h4>Views/Home.php</h4>
@@ -58,6 +60,7 @@
 <span>
     isim : <b>teknasyon şifre : <b>963852741</b>
 </span>
+<<<<<<< HEAD
 <span>
     isim : <b>Basri</b> şifre : <b>789654258</b>
 </span>
@@ -77,5 +80,7 @@
 </span>
 
 
+=======
+>>>>>>> ef68c3a33176979fe9d1bc23348e7b8180b05bc5
 
 
